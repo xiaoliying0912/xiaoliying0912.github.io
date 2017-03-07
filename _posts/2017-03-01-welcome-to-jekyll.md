@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Welcome to xiaoliying's blog!"
+date:   2017-03-01 9:31:01 +0800
+categories: 欢迎
+tag: welcome
+---
+
+* content
+{:toc}
+
+
+First POST build by Jekyll.
+
+
+生活照........
+------------------------
+
+![生活照。。。]({{ '/styles/images/portrait1.jpg' | prepend: site.baseurl  }})
+
+
+![生活照。。。]({{ '/styles/images/portrait2.jpg' | prepend: site.baseurl  }})
+
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
