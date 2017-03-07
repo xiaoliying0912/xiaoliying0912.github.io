@@ -3614,7 +3614,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
   float: left;
   padding: 20px 15px;
   font-size: 18px;
-  line-height: 20px;
+  height: 70px;
+  line-height: 70px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
