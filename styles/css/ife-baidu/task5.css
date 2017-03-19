@@ -1,0 +1,170 @@
+body,p,input,textarea,span,img,ol,ul,li,table,tr,th,td,dl,dt,dd{
+	margin: 0;
+	padding: 0;	
+}
+dd,dl,dt{
+	-webkit-margin-start: 0;
+}
+a{
+	text-decoration: none;
+	color:#fff;
+}
+li{
+	list-style: none;
+}
+.clear{
+	overflow: hidden;
+}
+#container{
+	position: absolute;
+	top:0;
+	left:0;
+	width:100%;
+	margin:0 auto;
+}
+#nav{
+	position:absolute;
+	top: 0;
+	left:0;
+	width:100%;
+	height:50px;
+	background: #333 no-repeat;
+}
+#foot{
+	position:absolute;
+	left: 0;
+	bottom:0;
+	width: 100%;
+	height: 50px;
+	background: #333 no-repeat;	
+}
+#nav li{
+	float: left;
+	padding-left: 10px;
+}
+#nav ul{
+	line-height: 50px;
+	float: right;
+	padding-right: 30px;
+}
+#main{
+	margin:80px 30px 30px 30px;
+	width:100%;
+}
+.logo{
+	padding-left: 30px;
+}
+.left{
+	margin-right: 470px;
+}
+.left-1,.left-2,.left-3,.left-4{
+	border: 1px solid #999;
+	box-shadow: 2px 2px 1px #999;
+	margin-top: 30px;
+	padding:20px;
+}
+.right{
+	position: absolute;
+	top:80px;
+	right:30px;
+	width: 380px;
+	border: 1px solid #999999;
+	box-shadow: 2px 2px 1px #999;
+}
+.fontcolor{
+	color: #999;
+}
+.left p{
+	line-height: 28px;
+}
+.suojin{
+	text-indent:2em;
+}
+.left-1 img,.left-2 img{
+	width:200px;
+	height:300px;
+	padding: 20px;
+}
+.left-2 ol{
+	padding-left: 30px;
+}
+.left-3 span{
+	display: inline-block;
+	width:140px;
+	height: 140px;
+	border:1px solid #999;
+	text-align: center;
+	vertical-align: middle;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.left-3 img{
+	width:100px;
+	height: 100px;
+}
+.left-4{
+	margin-bottom: 70px;
+}
+.left-4 table{
+	border-collapse: collapse;
+	width:800px;
+	height:100px;
+}
+.table-bj{
+	background: #333333;
+	color: #fff;
+	font-weight:bold;
+}
+.table-bj2{
+	background: #A9A9A9;
+	text-align: center;
+}
+.center{
+	text-align: center;
+	line-height: 50px;
+	color: #fff;
+}
+/* 以下是右侧表单right包含的样式*/
+.form{
+	width:300px;
+	height:30px;
+}
+.text{
+	float: left;
+	width:130px;
+	height:30px;
+	text-align: right;
+}
+.text2{
+	margin-left:150px;
+	margin-bottom:10px;
+}
+.input{
+	float: left;
+	width:132px;
+	height:30px;
+	margin-left:20px;
+	text-align: left;
+}
+.input input{
+	width:132px;
+}
+.label{
+	margin-left: 150px;
+	width:200px;
+}
+.textarea{
+	margin-left: 20px;
+}
+.tijiao{
+	width:380px;
+	padding: 20px;
+}
+.submit{
+	width:340px;
+	height: 30px;
+	background: #3355d0;
+	color:#FFFFFF;
+	border: none;
+	border-radius: 6px;	
+}
