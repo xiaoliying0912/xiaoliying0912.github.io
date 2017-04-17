@@ -6321,7 +6321,7 @@ hr {
 }
 /* Page headers */
 .docs-header {
-  padding: 10px 15px 10px;
+  padding:0 10px;
   /* side padding builds on .container 15px, so 30px */
   font-size: 16px;
   text-align: center;
