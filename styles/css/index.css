@@ -3614,8 +3614,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
   float: left;
   padding: 20px 15px;
   font-size: 18px;
-  height: 70px;
-  line-height: 70px;
+  height: 40px;
+  line-height: 40px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -6321,17 +6321,15 @@ hr {
 }
 /* Page headers */
 .docs-header {
-  padding: 30px 15px 50px;
+  padding: 10px 15px 10px;
   /* side padding builds on .container 15px, so 30px */
   font-size: 16px;
   text-align: center;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
 }
-.docs-header h1 {
-  color: #fff;
-}
+
 .docs-header p {
-  font-weight: 300;
+  font-weight: 200;
   line-height: 1.5;
 }
 .docs-header .container {
@@ -6343,7 +6341,7 @@ hr {
     text-align: left;
   }
   .docs-header h1 {
-    font-size: 60px;
+    font-size: 40px;
     line-height: 1;
   }
 }
@@ -6368,7 +6366,7 @@ hr {
 }
 .footer-links li {
   display: inline;
-  padding: 0 2px;
+  padding: 0 2px; 
 }
 .footer-links li:first-child {
   padding-left: 0;
