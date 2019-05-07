@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b94607a7-dd9d-4613-b4d0-6bf265eb5949" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-07-测试.md" afterPath="$PROJECT_DIR$/_posts/2019/2019-05-07-测试.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-01-welcome-to-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-01-welcome-to-jekyll.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-02-js-document-1.markdown" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-02-js-document-1.markdown" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-02-js-document-2.markdown" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-02-js-document-2.markdown" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-03-js-document-3.md" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-03-js-document-3.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-09-how-to-use-jekyll-and-github.md" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-09-how-to-use-jekyll-and-github.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-19-baidu-task5.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-19-baidu-task5.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-19-baidu-task6.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-19-baidu-task6.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-21-baidu-task7.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-21-baidu-task7.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-29-baidu-bb-task2.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-03-29-baidu-bb-task2.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-01-baidu-bb-task3.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-04-01-baidu-bb-task3.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-10-baidu-bb-task4.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-04-10-baidu-bb-task4.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-15-baidu-bb-task5.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-04-15-baidu-bb-task5.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-21-baidu-css3 3d轮播.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-04-21-baidu-css3 3d轮播.html" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019/2019-05-07-测试.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="322">
+              <first_editor relative-caret-position="184">
                 <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
                 <folding />
               </first_editor>
@@ -28,7 +40,7 @@
         </entry>
       </file>
       <file leaf-file-name="2017-03-03-js-document-3.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-03-03-js-document-3.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-03-js-document-3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="-69">
@@ -114,12 +126,6 @@
             <path>
               <item name="xiaoliying0912.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaoliying0912.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiaoliying0912.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaoliying0912.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="categories" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -148,6 +154,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xiaoliying0912.github.io\_posts\2017" />
       <recent name="E:\xiaoliying0912.github.io\_posts\2019" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -262,12 +269,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557153901946</updated>
       <workItem from="1557153920560" duration="1552000" />
-      <workItem from="1557194068459" duration="1077000" />
+      <workItem from="1557194068459" duration="1168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2629000" />
+    <option name="totallyTimeSpent" value="2720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="0" width="1382" height="784" extended-state="0" />
@@ -311,7 +318,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-02-js-document-1.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-02-js-document-1.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -322,7 +329,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-01-welcome-to-jekyll.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-01-welcome-to-jekyll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -365,7 +372,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-19-baidu-task5.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-19-baidu-task5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -373,7 +380,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-03-js-document-3.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-03-js-document-3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -384,7 +391,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-09-how-to-use-jekyll-and-github.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-09-how-to-use-jekyll-and-github.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -395,7 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-19-baidu-task6.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-19-baidu-task6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -410,14 +417,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-10-baidu-bb-task4.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-04-10-baidu-bb-task4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="12" column="93" lean-forward="false" selection-start-line="12" selection-start-column="93" selection-end-line="12" selection-end-column="93" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-19-baidu-task5.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-19-baidu-task5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -425,7 +433,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-19-baidu-task6.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-19-baidu-task6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -441,7 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-01-welcome-to-jekyll.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-01-welcome-to-jekyll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -452,7 +460,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-02-js-document-2.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-02-js-document-2.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -463,7 +471,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-02-js-document-1.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-02-js-document-1.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="346">
@@ -474,7 +482,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-09-how-to-use-jekyll-and-github.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-09-how-to-use-jekyll-and-github.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-2944">
@@ -549,7 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-21-baidu-css3 3d轮播.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-04-21-baidu-css3 3d轮播.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-552">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -557,7 +565,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-03-js-document-3.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-03-js-document-3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-69">
@@ -571,7 +579,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019/2019-05-07-测试.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="322">
+          <first_editor relative-caret-position="184">
             <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             <folding />
           </first_editor>
