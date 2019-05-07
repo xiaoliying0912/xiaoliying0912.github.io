@@ -47,9 +47,9 @@ indows系统搭载jekyll环境需要安装3种东西。我的电脑是win7 64的
   ![安装ruby2]({{ '/styles/images/picture/1489041266392.png' | prepend: site.baseurl  }})
   
   安装完成后打开终端 输入ruby –v 测试是否成功
-    
+   
+   
      ruby -v
-
 	 
 #### 2、	安装rubygems
 
