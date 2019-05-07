@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b94607a7-dd9d-4613-b4d0-6bf265eb5949" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-09-how-to-use-jekyll-and-github.md" afterPath="$PROJECT_DIR$/_posts/2017-03-09-how-to-use-jekyll-and-github.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-07-测试.md" afterPath="$PROJECT_DIR$/_posts/2019-05-07-测试.md" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-测试.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="422">
-                <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -244,12 +243,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557153901946</updated>
       <workItem from="1557153920560" duration="1552000" />
-      <workItem from="1557194068459" duration="439000" />
+      <workItem from="1557194068459" duration="578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1991000" />
+    <option name="totallyTimeSpent" value="2130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="0" width="1382" height="784" extended-state="0" />
@@ -513,8 +512,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-测试.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="422">
-            <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
