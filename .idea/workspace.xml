@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b94607a7-dd9d-4613-b4d0-6bf265eb5949" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-03-19-baidu-task5.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-baidu-前端练习/2017-03-19-baidu-task5.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-03-19-baidu-task6.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-baidu-前端练习/2017-03-19-baidu-task6.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-03-21-baidu-task7.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-baidu-前端练习/2017-03-21-baidu-task7.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-03-29-baidu-bb-task2.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-baidu-前端练习/2017-03-29-baidu-bb-task2.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-04-01-baidu-bb-task3.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-baidu-前端练习/2017-04-01-baidu-bb-task3.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-04-10-baidu-bb-task4.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-baidu-前端练习/2017-04-10-baidu-bb-task4.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-04-15-baidu-bb-task5.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-baidu-前端练习/2017-04-15-baidu-bb-task5.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-04-21-baidu-css3 3d轮播.html" afterPath="$PROJECT_DIR$/_posts/2017/2017-baidu-前端练习/2017-04-21-baidu-css3 3d轮播.html" />
-    </list>
+    <list default="true" id="b94607a7-dd9d-4613-b4d0-6bf265eb5949" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-20-servlet.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <first_editor relative-caret-position="230">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -331,12 +321,12 @@
       <workItem from="1557653036598" duration="2475000" />
       <workItem from="1557655658358" duration="3081000" />
       <workItem from="1557834013712" duration="3000" />
-      <workItem from="1557834313220" duration="923000" />
+      <workItem from="1557834313220" duration="1058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9809000" />
+    <option name="totallyTimeSpent" value="9944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="0" width="1382" height="784" extended-state="0" />
@@ -635,17 +625,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-29-baidu-bb-task2.html" />
     <entry file="file://$PROJECT_DIR$/_posts/2017/2017-04-10-baidu-bb-task4.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018/2019-05-07-spring复习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="920">
-            <caret line="74" column="9" lean-forward="false" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-09-windows系统利用github和jekyll搭载环境建立博客.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -657,11 +636,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018/2019-05-07-spring复习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="920">
+            <caret line="74" column="9" lean-forward="false" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017/2017-03-20-servlet.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
